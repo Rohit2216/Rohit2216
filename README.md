@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/rohitch70137275" target="blank"><img src="https://img.shields.io/twitter/follow/rohitch70137275?logo=twitter&style=for-the-badge" alt="rohitch70137275" /></a> </p>
 
-- 🔭 I’m currently studying on Full-stack Web Devlopement **MongoDB | Express | NodeJS**
-
 - 🌱 I’m currently learning **MongoDB, Express, NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://rohit2216.github.io/](https://rohit2216.github.io/)
@@ -17,13 +15,12 @@
 
 - 📫 How to reach me **chauhanrohit716@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13NOplGRKospEeCsnxJYPL8iGWhwKR5h8/view?usp=share_link](https://drive.google.com/file/d/13NOplGRKospEeCsnxJYPL8iGWhwKR5h8/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/uc?export=download&id=13NOplGRKospEeCsnxJYPL8iGWhwKR5h8](https://drive.google.com/uc?export=download&id=13NOplGRKospEeCsnxJYPL8iGWhwKR5h8)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rohitch70137275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohitch70137275" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rohit71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit71" height="30" width="40" /></a>
-<a href="https://fb.com/rohit chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohit chauhan" height="30" width="40" /></a>
 <a href="https://instagram.com/mr.__rohit__chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.__rohit__chauhan" height="30" width="40" /></a>
 </p>
 
