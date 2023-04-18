@@ -1,14 +1,28 @@
+download markdown
+
+download backup
+
+preview
 <h1 align="center">Hi 👋, I'm Rohit Chauhan</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit2216&label=Profile%20views&color=0e75b6&style=flat" alt="rohit2216" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandankumar1425&label=Profile%20views&color=0e75b6&style=flat" alt="rohit2216" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit2216" alt="rohit2216" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/rohitch70137275" target="blank"><img src="https://img.shields.io/twitter/follow/rohitch70137275?logo=twitter&style=for-the-badge" alt="rohitch70137275" /></a> </p>
 
+- 🌱 I’m currently learning **NodeJS**
 
-- 🔭 I’m currently Styding *Full-stack Web Devlopement*
+- 👨‍💻 All of my projects are available at [https://rohit2216.github.io/](https://rohit2216.github.io/)
 
+- 💬 Ask me about **HTML,CSS,JavaScript,MongoDB,NodeJS,Express**
+
+- 📫 How to reach me **chauhanrohit716@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/uc?export=download&id=13NOplGRKospEeCsnxJYPL8iGWhwKR5h8](https://drive.google.com/uc?export=download&id=13NOplGRKospEeCsnxJYPL8iGWhwKR5h8)
+
+- ⚡ Fun fact **I think I am funny.**
 
 # 💫 About Me:
 Hello, my name is Rohit Chauhan and I am from Bahadurgarh in district Jhajjar, Haryana. I recently graduated with a BSc in Computer Science in 2021. As a full-stack web developer, I am skilled in HTML, CSS, JavaScript, Node.js, MongoDB, and Express. With my education and expertise, I have a strong foundation for building end-to-end web applications that incorporate both front-end and back-end development.
