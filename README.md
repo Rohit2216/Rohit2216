@@ -1,3 +1,15 @@
+<h1 align="center">Hi 👋, I'm Rohit Chauhan</h1>
+<h3 align="center">A passionate Full-Stack developer from India</h3>
+
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandankumar1425&label=Profile%20views&color=0e75b6&style=flat" alt="rohit2216" /> </p>
+
+
+
+- 🔭 I’m currently Styding *Full-stack Web Devlopement*
+
+
 # 💫 About Me:
 Hello, my name is Rohit Chauhan and I am from Bahadurgarh in district Jhajjar, Haryana. I recently graduated with a BSc in Computer Science in 2021. As a full-stack web developer, I am skilled in HTML, CSS, JavaScript, Node.js, MongoDB, and Express. With my education and expertise, I have a strong foundation for building end-to-end web applications that incorporate both front-end and back-end development.
 
