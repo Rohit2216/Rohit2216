@@ -26,7 +26,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/uc?export=download&id=13NOplGRKospEeCsnxJYPL8iGWhwKR5h8](https://drive.google.com/uc?export=download&id=13NOplGRKospEeCsnxJYPL8iGWhwKR5h8)
 
-- ⚡ Fun fact **I think I am funny.**
+- ⚡ Fun fact **The first computer “bug” was an actual real-life bug.**
 
 # 💫 About Me:
 Hello, my name is Rohit Chauhan and I am from Bahadurgarh in district Jhajjar, Haryana. I recently graduated with a BSc in Computer Science in 2021. As a full-stack web developer, I am skilled in HTML, CSS, JavaScript, Node.js, MongoDB, and Express. With my education and expertise, I have a strong foundation for building end-to-end web applications that incorporate both front-end and back-end development.
