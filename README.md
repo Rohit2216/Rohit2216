@@ -9,6 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/rohitch70137275" target="blank"><img src="https://img.shields.io/twitter/follow/rohitch70137275?logo=twitter&style=for-the-badge" alt="rohitch70137275" /></a> </p>
 
+<p align="center" color:"red">
+     <a href="https://github.com/DenverCoder1/readme-typing-svg">
+          <img src="https://readme-typing-svg.demolab.com/?lines=Hello! I am Rohit Chauhan 🏽; I am a Full-Stack%20Web%20Developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+      </p>
+
 - 🌱 I’m currently learning **NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://rohit2216.github.io/](https://rohit2216.github.io/)
