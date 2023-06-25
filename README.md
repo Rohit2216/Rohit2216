@@ -46,9 +46,6 @@ Hello, my name is Rohit Chauhan and I am from Bahadurgarh in district Jhajjar, H
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-![Random Dev Meme](https://example.com/meme.jpg)
-
 ---
 
 [![Visit Count](https://visitcount.itsvg.in/api?id=Rohit2216&icon=0&color=0)](https://visitcount.itsvg.in)
