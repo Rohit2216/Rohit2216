@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **NodeJS**
 
-- 👨‍💻 All of my projects are available at [https://rohit2216.github.io/](https://rohit2216.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://rohit2216.github.io/)
 
 - 💬 Ask me about **HTML,CSS,JavaScript,MongoDB,NodeJS,Express**
 
