@@ -48,7 +48,6 @@ Hello, my name is Rohit Chauhan and I am from Bahadurgarh in district Jhajjar, H
 
 ---
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=Rohit2216&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
