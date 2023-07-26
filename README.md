@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Chauhan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Web developer from India</h3>
 
 <p align="center" color:"red">
      <a href="https://github.com/DenverCoder1/readme-typing-svg">
