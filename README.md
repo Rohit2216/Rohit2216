@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **chauhanrohit716@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/uc?export=download&id=13NOplGRKospEeCsnxJYPL8iGWhwKR5h8](https://drive.google.com/uc?export=download&id=13NOplGRKospEeCsnxJYPL8iGWhwKR5h8)
+- 📄 Know about my experiences [Resume](https://drive.google.com/uc?export=download&id=13NOplGRKospEeCsnxJYPL8iGWhwKR5h8)
 
 - ⚡ Fun fact **The first computer “bug” was an actual real-life bug.**
 
