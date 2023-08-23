@@ -8,9 +8,6 @@
 
 <img align="" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit2216&label=Profile%20views&color=0e75b6&style=flat" alt="rohit2216" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit2216" alt="rohit2216" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rohitch70137275" target="blank"><img src="https://img.shields.io/twitter/follow/rohitch70137275?logo=twitter&style=for-the-badge" alt="rohitch70137275" /></a> </p>
 
@@ -47,6 +44,11 @@ Hello, my name is Rohit Chauhan and I am from Bahadurgarh in district Jhajjar, H
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rohit2216&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+
+### 🏆 Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit2216" alt="rohit2216" /></a> </p>
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -54,5 +56,8 @@ Hello, my name is Rohit Chauhan and I am from Bahadurgarh in district Jhajjar, H
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit2216&label=Profile%20views&color=0e75b6&style=flat" alt="rohit2216" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
