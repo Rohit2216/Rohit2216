@@ -24,7 +24,6 @@
 # 💫 About Me:
 Hello, my name is Rohit Chauhan and I am from Bahadurgarh in district Jhajjar, Haryana. I recently graduated with a BSc in Computer Science in 2021. As a full-stack web developer, I am skilled in HTML, CSS, JavaScript, Node.js, MongoDB, and Express. With my education and expertise, I have a strong foundation for building end-to-end web applications that incorporate both front-end and back-end development.
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.__rohit__chauhan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit71) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Rohitch70137275) 
 
