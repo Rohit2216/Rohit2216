@@ -8,7 +8,6 @@
 
 <img align="" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
 
-
 - 🌱 I’m currently learning **NodeJS**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://rohit2216.github.io/)
