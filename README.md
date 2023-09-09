@@ -18,17 +18,32 @@
      style="position: fixed; top: 0; left: 0; z-index: -1;">
 
 
-- 🌱 I’m currently learning **NodeJS**
+<!-- Highlight your learning journey -->
+<h3 align="center">🌱 Currently Learning:</h3>
+<p align="center">I'm currently diving deep into the world of <strong>Node.js</strong>.</p>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://rohit2216.github.io/)
+<!-- Showcase your projects with a call-to-action -->
+<h3 align="center">🚀 Check Out My Projects:</h3>
+<p align="center">
+  <a href="https://rohit2216.github.io/"><strong>Portfolio</strong></a> - Explore my collection of projects that showcase my skills.
+</p>
 
-- 💬 Ask me about **HTML,CSS,JavaScript,MongoDB,NodeJS,Express**
+<!-- Offer to help with your expertise -->
+<h3 align="center">💬 Ask Me About:</h3>
+<p align="center">Feel free to reach out if you have questions about <strong>HTML, CSS, JavaScript, MongoDB, Node.js, or Express</strong>.</p>
 
-- 📫 How to reach me **chauhanrohit716@gmail.com**
+<!-- Provide contact information -->
+<h3 align="center">📫 How to Reach Me:</h3>
+<p align="center">You can contact me at <strong>chauhanrohit716@gmail.com</strong>.</p>
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/uc?export=download&id=13NOplGRKospEeCsnxJYPL8iGWhwKR5h8)
+<!-- Share your resume -->
+<h3 align="center">📄 My Resume:</h3>
+<p align="center">Take a look at my <a href="https://drive.google.com/uc?export=download&id=13NOplGRKospEeCsnxJYPL8iGWhwKR5h8"><strong>Resume</strong></a> to learn more about my experiences.</p>
 
-- ⚡ Fun fact **The first computer “bug” was an actual real-life bug.**
+<!-- Add a fun fact to create engagement -->
+<h3 align="center">⚡ Fun Fact:</h3>
+<p align="center">Did you know? The first computer "bug" was an actual real-life bug. 🐛</p>
+
 
 # 💫 About Me:
 Hello, my name is Rohit Chauhan and I am from Bahadurgarh in district Jhajjar, Haryana. I recently graduated with a BSc in Computer Science in 2021. As a full-stack web developer, I am skilled in HTML, CSS, JavaScript, Node.js, MongoDB, and Express. With my education and expertise, I have a strong foundation for building end-to-end web applications that incorporate both front-end and back-end development.
