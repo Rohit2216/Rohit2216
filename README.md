@@ -1,12 +1,22 @@
-<h1 align="center">Hi 👋, I'm Rohit Chauhan</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
+<h1 align="center" style="font-size: 36px; color: #333;">Hi 👋, I'm Rohit Chauhan</h1>
+<p align="center" style="font-size: 18px; color: #777;">A passionate Full Stack Web developer from India</p>
+<!-- Add a brief introduction with some style -->
+<p align="center" style="font-size: 20px; color: #444; margin-top: 20px;">
+  Welcome to my GitHub profile where I bring the web to life. 🚀
+</p>
 
 <p align="center" color:"red">
      <a href="https://github.com/DenverCoder1/readme-typing-svg">
-          <img src="https://readme-typing-svg.demolab.com/?lines=Hello! I am Rohit Chauhan 🏽; I am a Full-Stack%20Web%20Developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
-      </p>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello, I'm Rohit Chauhan 🏽; Crafting digital dreams one code at a time ✨; Building tomorrow's web today 🌐; Exploring the uncharted territories of technology 🚀&font=Fira%20Code&center=true&width=640&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000">
+</a>
+</p>
 
-<img align="" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
+<img src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif" 
+     alt="Coding" 
+     width="100%" 
+     height="100%" 
+     style="position: fixed; top: 0; left: 0; z-index: -1;">
+
 
 - 🌱 I’m currently learning **NodeJS**
 
