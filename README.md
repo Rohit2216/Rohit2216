@@ -19,30 +19,30 @@
 
 
 <!-- Highlight your learning journey -->
-<h3 align="center">🌱 Currently Learning:</h3>
-<p align="center">I'm currently diving deep into the world of <strong>Node.js</strong>.</p>
+<h3>🌱 Currently Learning:</h3>
+<p>I'm currently diving deep into the world of <strong>Node.js</strong>.</p>
 
 <!-- Showcase your projects with a call-to-action -->
-<h3 align="center">🚀 Check Out My Projects:</h3>
-<p align="center">
+<h3>🚀 Check Out My Projects:</h3>
+<p>
   <a href="https://rohit2216.github.io/"><strong>Portfolio</strong></a> - Explore my collection of projects that showcase my skills.
 </p>
 
 <!-- Offer to help with your expertise -->
-<h3 align="center">💬 Ask Me About:</h3>
-<p align="center">Feel free to reach out if you have questions about <strong>HTML, CSS, JavaScript, MongoDB, Node.js, or Express</strong>.</p>
+<h3>💬 Ask Me About:</h3>
+<p>Feel free to reach out if you have questions about <strong>HTML, CSS, JavaScript, MongoDB, Node.js, or Express</strong>.</p>
 
 <!-- Provide contact information -->
-<h3 align="center">📫 How to Reach Me:</h3>
-<p align="center">You can contact me at <strong>chauhanrohit716@gmail.com</strong>.</p>
+<h3>📫 How to Reach Me:</h3>
+<p>You can contact me at <strong>chauhanrohit716@gmail.com</strong>.</p>
 
 <!-- Share your resume -->
-<h3 align="center">📄 My Resume:</h3>
-<p align="center">Take a look at my <a href="https://drive.google.com/uc?export=download&id=13NOplGRKospEeCsnxJYPL8iGWhwKR5h8"><strong>Resume</strong></a> to learn more about my experiences.</p>
+<h3>📄 My Resume:</h3>
+<p>Take a look at my <a href="https://drive.google.com/uc?export=download&id=13NOplGRKospEeCsnxJYPL8iGWhwKR5h8"><strong>Resume</strong></a> to learn more about my experiences.</p>
 
 <!-- Add a fun fact to create engagement -->
-<h3 align="center">⚡ Fun Fact:</h3>
-<p align="center">Did you know? The first computer "bug" was an actual real-life bug. 🐛</p>
+<h3>⚡ Fun Fact:</h3>
+<p>Did you know? The first computer "bug" was an actual real-life bug. 🐛</p>
 
 
 # 💫 About Me:
