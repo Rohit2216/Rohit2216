@@ -72,9 +72,13 @@ Let's embark on a journey to shape the digital world together. 🚀
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=rohit2216&count_private=true&theme=react-dark&hide_border=true)
 
 
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rohit2216&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<h2 align="left">⚡Activity Graph:</h2>
+  <a><img alt="Rohit Chauhan Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rohit2216&theme=react-dark" /></a>
 
 ### 🏆 Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit2216" alt="rohit2216" /></a> </p>
