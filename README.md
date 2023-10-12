@@ -84,8 +84,10 @@ Let's embark on a journey to shape the digital world together. 🚀
 <h2 align="left">⚡Activity Graph:</h2>
   <a><img alt="Rohit Chauhan Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rohit2216&theme=react-dark" /></a>
 
-### 🏆 Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit2216" alt="rohit2216" /></a> </p>
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Rohit2216&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
+
+
 
 
 ### ✍️ Random Dev Quote
